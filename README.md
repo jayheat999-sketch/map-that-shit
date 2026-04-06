@@ -1,7 +1,6 @@
 # map-that-shit
 
 $ python train_torus_english.py
-/media/jason/10dc0f42-1a71-43f6-80d9-0c8146c66e1f/ComfyUI/venv/lib/python3.12/site-packages/torch/cuda/__init__.py:63: FutureWarning: The pynvml package is deprecated. Please install nvidia-ml-py instead. If you did not install pynvml directly, please report this to the maintainers of the package that installed pynvml for you.
   import pynvml  # type: ignore[import]
   Device: xpu
 
